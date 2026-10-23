@@ -1,0 +1,23 @@
+# ---- 编译产物（C / C++）----
+*.exe
+*.obj
+*.o
+*.out
+*.ilk
+*.pdb
+*.dSYM/
+a.out
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# ---- 编辑器 / 系统 ----
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ---- 临时文件 ----
+*.tmp
+*.log
